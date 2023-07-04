@@ -1,0 +1,20 @@
+about/000002D175E6C948/gan;sap;khoang chung;/He is about to die;We're about to start;How about this?;/
+add/000002D175E6DB48/them vao;/add this thing;/
+apple/000002D175E6DD38/qua tao;/I have an apple;/
+army/000002D175E6DF28/doi quan;quan doi;/You're in the army now;I need an army;/
+ball/000002D175E6F128/buoi khieu vu;qua cau;qua banh;qua bong;/I have a foot ball;I love meatballs;They're refusing to play ball;/
+bear/000002D175E70328/con gau;/It was a big bear;/
+big/000002D175E70518/quan trong;lon;to;/It's not a big deal;He looks so big;That is a big tree;He likes to talk big;/
+big/000002D175E70708/to lon;/big apple;/
+dad/000002D175E71EF8/bo;ba;cha;/My dad is a teacher;I love my dad;/
+family/000002D175E720E8/gia dinh;/I love my family;/
+father/000002D175E732E8/bo;ba;cha;/My father is a teacher;I love my father;/
+girl/000002D175E744E8/con gai;co gai;/I love this girl;This girl is pretty;/
+go/000002D175E746D8/di;/I have to go to work right now;Let's go;/
+hat/000002D175E748C8/cai mu;cai non;/I have a black hat;Please wear a hat;/
+king /000002D175E75AC8/vua 3;vua 2;vua 1;chua;vua;/asdfadsf;asdfasdf;asdfadsf;sdfdsaf;bad king;good king ;i want to be a king;/
+king/000002D175E75CB8/asdf;asdf;sadf;/adsf;/
+mine/000002D175E76F08/cua toi;ham mo;thuy loi;qua min;min;/Don't step on any mines;I don't want to work in a mine;The money is all mine;/
+mine/000002D175E778B8/khai mo;dat min;/Mine for gold;Mine the Earth for gold;/
+zoo/000002D175E77AA8/so thu;vuon thu;/My father's taking me to the zoo this weekend;/
+zone/000002D175E776C8/mien;khu;/Industrial zone;A nuclear-free zone;The zone of influence;/

@@ -1,0 +1,20 @@
+about/00000200466CD188/gan;sap;khoang chung;/He is about to die;We're about to start;How about this?;/
+add/00000200466CE388/them vao;/add this thing;/
+apple/00000200466CE578/qua tao;/I have an apple;/
+army/00000200466CE768/doi quan;quan doi;/You're in the army now;I need an army;/
+ball/00000200466CF968/buoi khieu vu;qua cau;qua banh;qua bong;/I have a foot ball;I love meatballs;They're refusing to play ball;/
+bear/00000200466D0F68/con gau;/It was a big bear;/
+big/00000200466D1158/quan trong;lon;to;/It's not a big deal;He looks so big;That is a big tree;He likes to talk big;/
+big/00000200466D2358/to lon;/big apple;/
+dad/00000200466D2738/bo;ba;cha;/My dad is a teacher;I love my dad;/
+family/00000200466D3938/gia dinh;/I love my family;/
+father/00000200466D4B38/bo;ba;cha;/My father is a teacher;I love my father;/
+girl/00000200466D5D38/con gai;co gai;/I love this girl;This girl is pretty;/
+go/00000200466D5F28/di;/I have to go to work right now;Let's go;/
+hat/00000200466D6118/cai mu;cai non;/I have a black hat;Please wear a hat;/
+king /00000200466D7318/vua 3;vua 2;vua 1;chua;vua;/asdfadsf;asdfasdf;asdfadsf;sdfdsaf;bad king;good king ;i want to be a king;/
+king/00000200466D7508/asdf;asdf;sadf;/adsf;/
+mine/00000200466D7938/cua toi;ham mo;thuy loi;qua min;min;/Don't step on any mines;I don't want to work in a mine;The money is all mine;/
+mine/00000200466D82E8/khai mo;dat min;/Mine for gold;Mine the Earth for gold;/
+zoo/00000200466D7F08/so thu;vuon thu;/My father's taking me to the zoo this weekend;/
+zone/00000200466D7748/mien;khu;/Industrial zone;A nuclear-free zone;The zone of influence;/
